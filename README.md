@@ -7,3 +7,6 @@ Want to fake productivity? Try out LoadN. LoadN is a compilation of static loadi
 * [ ] Google Docs (home page and document)
 * [ ] Google Drive
 * [ ] Youtube
+
+# Site
+https://parteehat.github.io/LoadN/
