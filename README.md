@@ -3,10 +3,9 @@ Want to fake productivity? Try out LoadN. LoadN is a compilation of static loadi
 
 # Support
 * [X] Quizelt
-* [ ] Canvas
-* [ ] Google Docs (home page and document)
-* [ ] Google Drive
-* [ ] Youtube
+* [X] Canvas
+* [X] Google Docs (home page and document)
+* [ ] Google Drive (Formatting is messed up)
 
 # Site
 https://parteehat.github.io/LoadN/
