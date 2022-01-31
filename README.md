@@ -9,9 +9,9 @@ Want to fake productivity? Try out LoadN. LoadN is a compilation of static loadi
 
 # Hosting
 If you want to host the website on your own, in index.html, please change
-```onclick="window.location.href='/LoadN/quizlet/Quizlet%20Live%20Quizlet.html'"```
+```/LoadN/quizlet/Quizlet%20Live%20Quizlet.html```
 to
-```onclick="window.location.href='/quizlet/Quizlet%20Live%20Quizlet.html'"```
+```/quizlet/Quizlet%20Live%20Quizlet.html```
 and repeat the same step for each of the other button
 
 
