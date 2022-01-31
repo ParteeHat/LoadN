@@ -12,7 +12,7 @@ If you want to host the website on your own, in index.html, please change
 ```/LoadN/quizlet/Quizlet%20Live%20Quizlet.html```
 to
 ```/quizlet/Quizlet%20Live%20Quizlet.html```
-and repeat the same step for each of the other button
+and repeat the same step for each of the other buttons. Github pages messes with the sub pages so they have to be different.
 
 
 # Site
